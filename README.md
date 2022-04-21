@@ -1,2 +1,2 @@
 # byteBank
-Programa bancário em javascript
+Sistema bancário em javascript
